@@ -12,7 +12,15 @@ yarn
 
 Create a dummy `secrets.js` file:
 ```
-cp src/secrets.js.template src/secrets.js
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="7; url='https://nakarte.me/#m=4/58.21492/-6.75959&l=O'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://nakarte.me/#m=4/58.21492/-6.75959&l=O">this link</a>.</p>
+  </body>
+</html>
 ```
 
 Run dev server:
