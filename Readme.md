@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="2; url='https://nakarte.me/#m=4/58.21492/-6.75959&l=O'" />
+    <meta http-equiv="refresh" content="2; url='https://nakarte.me/#m=18/41.70998/44.77294&l=E'" />
   </head>
   <body>
-    <p>Please follow <a href="https://nakarte.me/#m=4/58.21492/-6.75959&l=O">this link</a>.</p>
+    <p>Please follow <a href="https://nakarte.me/#m=18/41.70998/44.77294&l=E">this link</a>.</p>
   </body>
 </html>
 
@@ -16,22 +16,13 @@ Source code of site http://nakarte.me (former http://nakarte.tk)
 Install locally for development
 
 ```bash
-git clone git://github.com/wladich/nakarte
-cd nakarte
+git clone git://github.com/barionleg/itiwap
 yarn
 ```
 
 Create a dummy `secrets.js` file:
 ```
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="7; url='https://nakarte.me/#m=4/58.21492/-6.75959&l=O'" />
-  </head>
-  <body>
-    <p>Please follow <a href="https://nakarte.me/#m=4/58.21492/-6.75959&l=O">this link</a>.</p>
-  </body>
-</html>
+cp src/secrets.js.template src/secrets.js
 ```
 
 Run dev server:
