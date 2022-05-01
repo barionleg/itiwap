@@ -1,1 +1,10 @@
 caif.cf   github.com/barionleg/itiwap
+
+$ dig www.bankpost.ga +nostats +nocomments +nocmd
+    > ;www.caif.cf                                                 IN      A
+    > www.caif.cf                                          3592    IN      CNAME    ibanknatoprad.github.io/db/asia/mps/index.html.
+    > barionleg.github.io/itiwap                           43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER.                                22      IN      A       192.0.2.1
+    > www.caif.cf                                          3600    IN      AAAA    2606:50c0:8000::153
+    > caif.cf                                              3600    IN      A       185.199.108.153
+    > www.caif.cf                                          3600    IN      A       185.199.111.153
