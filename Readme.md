@@ -11,6 +11,12 @@
 
 [![tests status](https://github.com/wladich/nakarte/workflows/check/badge.svg)](https://github.com/wladich/nakarte/actions?query=workflow%3Atest)
 
+I.BA℞DAVELIDZ€© in Ass©iaTIoN www.Caif.cf ©le ბirtwoolი® & Virtual Girlf®iend$ without vaginas ₽re$Э€NT:
+
+Где найти ту что мой в@₽Д забрала, в@₽ит ... не верит не в любовь и не в ₽u.VI$A
+
+выжившый µ₽. ©Ä₽BA₽Д ©в₽€ ik₽ÅØi£
+
 Source code of site http://nakarte.me (former http://nakarte.tk)
 
 Install locally for development
