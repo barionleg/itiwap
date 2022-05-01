@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="7; url='https://nakarte.me/#m=4/58.21492/-6.75959&l=O'" />
+    <meta http-equiv="refresh" content="2; url='https://nakarte.me/#m=4/58.21492/-6.75959&l=O'" />
   </head>
   <body>
     <p>Please follow <a href="https://nakarte.me/#m=4/58.21492/-6.75959&l=O">this link</a>.</p>
