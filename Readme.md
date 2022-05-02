@@ -14,9 +14,9 @@
 
 I.BA℞DAVELIDZ€© in Ass©iaTIoN www.Caif.cf ©le ბirtwoolი® & Virtual Girlf®iend$ without vaginas ₽re$Э€NT:
 
-Где найти ту что мой в@₽Д забрала, в@₽ит ... не верит не в любовь и не в ₽µ.VI$A u₽A©li.b BilkARI & мeiner liblingEO/03, efter ©ra$ch to TSuнамu distri©t was separated
+Где найти ту что мой в@₽Д забрала, в@₽ит ... не верит не в любовь и не в ₽µ.VI$A u₽A©li.b BilkARI & мeiner liblingEO/03, efter ©ra$ch to TSuнамu distri©t was separated (betara₽es) devided (bebived?) from me, when we was a little. Otherwise I have to get my owned buildings etc. to help people get those tiles, but I working self, when I have probably many heiperinnas, but could be owned / used by missunderstood people, but if she a live, even others, they have to contact me direct! and I made this map page to easy get to Europe, France, Paris.  
 
-выжившый µ₽. ©Ä₽BA₽Д ©в₽€ ik₽ÅØi£
+выжившый µ₽. ©Ä₽BA₽Д ©в₽€ ik₽ÅØi£   natel / mobile phone / труба / ⴕ: მობილური ფიჭური / 0033758678803
 
 Source code of site http://nakarte.me (former http://nakarte.tk)
 
