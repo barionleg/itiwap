@@ -14,7 +14,7 @@
 
 I.BA℞DAVELIDZ€© in Ass©iaTIoN www.Caif.cf ©le ბirtwoolი® & Virtual Girlf®iend$ without vaginas ₽re$Э€NT:
 
-Где найти ту что мой в@₽Д забрала, в@₽ит ... не верит не в любовь и не в ₽u.VI$A
+Где найти ту что мой в@₽Д забрала, в@₽ит ... не верит не в любовь и не в ₽µ.VI$A u₽A©li.b BilkARI & мeiner liblingEO/03, efter ©ra$ch to TSuнамu distri©t was separated
 
 выжившый µ₽. ©Ä₽BA₽Д ©в₽€ ik₽ÅØi£
 
@@ -46,5 +46,5 @@ Some features require keys stored in src/secrets.js.
 In repository those keys are replaced with dummy ones.
     
 Some of server side components:
-https://github.com/wladich/westra_passes_for_nakarte
-https://github.com/wladich/ElevationServer
+https://github.com/barionleg/westra_passes_for_nakarte
+https://github.com/barionleg/ElevationServer
