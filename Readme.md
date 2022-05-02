@@ -20,6 +20,8 @@ I.BA℞DAVELIDZ€© in Ass©iaTIoN www.Caif.cf ©le ბirtwoolი® & Virtual G
 
 Source code of site http://nakarte.me (former http://nakarte.tk)
 
+Thanks to Wladich!
+
 Install locally for development
 
 ```bash
