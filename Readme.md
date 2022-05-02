@@ -8,6 +8,7 @@
   </body>
 </html>
 
+<meta name="mailru-verification" content="8c77013fc980525a" />
 
 [![tests status](https://github.com/wladich/nakarte/workflows/check/badge.svg)](https://github.com/wladich/nakarte/actions?query=workflow%3Atest)
 
