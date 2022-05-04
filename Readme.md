@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="2; url='https://nakarte.me/#m=18/41.70998/44.77294&l=E'" />
+    <meta http-equiv="refresh" content="2; url='https://nakarte.me/#m=15/55.74352/37.49784&l=-cseyJuYW1lIjoiR29vZ2xlOiBNYXAgUlUgU0QiLCJ1cmwiOiJodHRwczovL2FueWdpcy5ydS9hcGkvdjEvR29vZ2xlX01hcF9SVV9TRC97eH0ve3l9L3t6fSIsInRtcyI6ZmFsc2UsInNjYWxlRGVwZW5kZW50IjpmYWxzZSwibWF4Wm9vbSI6MTgsImlzT3ZlcmxheSI6ZmFsc2UsImlzVG9wIjp0cnVlfQ=='" />
   </head>
   <body>
-    <p>Please follow <a href="https://nakarte.me/#m=18/41.70998/44.77294&l=E">this link</a>.</p>
+    <p>Please follow <a href="https://nakarte.me/#m=15/55.74352/37.49784&l=-cseyJuYW1lIjoiR29vZ2xlOiBNYXAgUlUgU0QiLCJ1cmwiOiJodHRwczovL2FueWdpcy5ydS9hcGkvdjEvR29vZ2xlX01hcF9SVV9TRC97eH0ve3l9L3t6fSIsInRtcyI6ZmFsc2UsInNjYWxlRGVwZW5kZW50IjpmYWxzZSwibWF4Wm9vbSI6MTgsImlzT3ZlcmxheSI6ZmFsc2UsImlzVG9wIjp0cnVlfQ==">this link</a>.</p>
   </body>
 </html>
 
